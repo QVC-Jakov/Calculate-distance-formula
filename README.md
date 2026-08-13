@@ -13,6 +13,10 @@ Takes the primary and secondary values of X and Y, and subtracts the two (X2-X1)
 - x2 and Y2
 
 ## Sample Output
+Enter x1:2
+Enter y1:3
+Enter x2:4
+Enter y2:5
 the total distance is  2.8284271247461903
 
 ## Author
